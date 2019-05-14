@@ -1,8 +1,18 @@
-# MyUploader
+# SpringBoot文件上传系统前端
+
+> 🤡 原项目链接 https://github.com/gaoyuyue/MyUploader
+
+> 快速开始(启动后端项目后)
+
+```shell
+npm install
+npm run build
+npm run dev
+```
 
 > 单文件上传，多文件上传，大文件上传，断点续传，文件秒传，图片上传
 > 
-> 后端项目地址： [https://github.com/gaoyuyue/MyUploader-Backend](https://github.com/gaoyuyue/MyUploader-Backend)
+> 后端项目地址： [SpringBoot文件上传系统后端](https://github.com/hacker-and-painter/springboot-file-uploader)
 
 [![Build Status](https://www.travis-ci.org/gaoyuyue/MyUploader.svg?branch=master)](https://www.travis-ci.org/gaoyuyue/MyUploader)
 [![GitHub license](https://img.shields.io/github/license/gaoyuyue/MyUploader.svg)](https://github.com/gaoyuyue/MyUploader/blob/master/LICENSE)
